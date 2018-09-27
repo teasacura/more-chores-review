@@ -1,7 +1,7 @@
 # More Chores
 
 What better way to keep track of your chores than this?
-Here you’re going to be creating chore cards, which contain the chore id, title, duration and priority.
+Here you’re going to be creating Chore Cards, which contain the chore id, title, duration and priority.
 
 ## Initialize Server
 Using json-server:
